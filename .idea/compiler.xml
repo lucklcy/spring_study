@@ -9,5 +9,8 @@
         <module name="spring-annotion" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-annotion" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
