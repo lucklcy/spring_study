@@ -25,5 +25,8 @@
 hs_err_pid*
 
 .idea/workspace.xml
-src/main/resources/
 target
+src/main/java/com/.DS_Store
+src/main/java/com/lucklcy/.DS_Store
+src/test/.DS_Store
+src/test/java/.DS_Store
